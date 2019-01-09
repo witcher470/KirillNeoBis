@@ -1,0 +1,7 @@
+C:\Users\Kirill\Documents\1KirillNeoBis\Zadanie_2.5\Zadanie_2.5\obj\Debug\Zadanie_2.5.csprojAssemblyReference.cache
+C:\Users\Kirill\Documents\1KirillNeoBis\Zadanie_2.5\Zadanie_2.5\obj\Debug\Zadanie_2.5.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Documents\1KirillNeoBis\Zadanie_2.5\Zadanie_2.5\bin\Debug\Zadanie_2.5.exe.config
+C:\Users\Kirill\Documents\1KirillNeoBis\Zadanie_2.5\Zadanie_2.5\bin\Debug\Zadanie_2.5.exe
+C:\Users\Kirill\Documents\1KirillNeoBis\Zadanie_2.5\Zadanie_2.5\bin\Debug\Zadanie_2.5.pdb
+C:\Users\Kirill\Documents\1KirillNeoBis\Zadanie_2.5\Zadanie_2.5\obj\Debug\Zadanie_2.5.exe
+C:\Users\Kirill\Documents\1KirillNeoBis\Zadanie_2.5\Zadanie_2.5\obj\Debug\Zadanie_2.5.pdb
