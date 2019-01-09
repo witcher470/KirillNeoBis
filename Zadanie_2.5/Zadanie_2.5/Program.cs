@@ -15,7 +15,7 @@ namespace Zadanie_2._5
             for (int i = 0; i < array.Length; i++) //заполнение массива
             {
                 array[i] = rand.Next(-100, 100);
-                Console.WriteLine(array[i]);
+                Console.WriteLine($"X[{i}] {array[i]}");
                 if (array[i] <= 0)
                 {
                     array[i] = 1;
@@ -24,7 +24,7 @@ namespace Zadanie_2._5
             Console.WriteLine("Изменённый массив:");
                 for (int i = 0; i < array.Length; i++) // замена отрицательных и нулевых элементов массива
             {
-                Console.WriteLine(array[i]);
+                Console.WriteLine($"X[{i}] {array[i]}");
                 if (array[i] <= 0)
                 {
                     array[i] = 1;
