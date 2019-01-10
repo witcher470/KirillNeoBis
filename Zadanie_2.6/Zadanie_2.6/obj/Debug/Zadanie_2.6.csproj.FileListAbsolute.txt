@@ -1,0 +1,7 @@
+C:\Users\Kirill\source\repos\Zadanie_2.6\Zadanie_2.6\bin\Debug\Zadanie_2.6.exe.config
+C:\Users\Kirill\source\repos\Zadanie_2.6\Zadanie_2.6\bin\Debug\Zadanie_2.6.exe
+C:\Users\Kirill\source\repos\Zadanie_2.6\Zadanie_2.6\bin\Debug\Zadanie_2.6.pdb
+C:\Users\Kirill\source\repos\Zadanie_2.6\Zadanie_2.6\obj\Debug\Zadanie_2.6.csprojAssemblyReference.cache
+C:\Users\Kirill\source\repos\Zadanie_2.6\Zadanie_2.6\obj\Debug\Zadanie_2.6.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\source\repos\Zadanie_2.6\Zadanie_2.6\obj\Debug\Zadanie_2.6.exe
+C:\Users\Kirill\source\repos\Zadanie_2.6\Zadanie_2.6\obj\Debug\Zadanie_2.6.pdb
