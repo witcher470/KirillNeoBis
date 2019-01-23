@@ -6,7 +6,7 @@ namespace Zadanie_2._4
     {
         static void Main(string[] args)
         {
-            A: // точка возврата
+            
             int x;
             Console.Write("Введите целое число Х ");
             x = Convert.ToInt32(Console.ReadLine());
@@ -24,7 +24,7 @@ namespace Zadanie_2._4
             else
             {
                 Console.WriteLine("Введите число в диапазоне от 1 до 1000");
-                goto A;
+                 
             }
         }
     }
