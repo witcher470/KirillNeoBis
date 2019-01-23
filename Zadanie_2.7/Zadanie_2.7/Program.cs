@@ -7,7 +7,7 @@ namespace Zadanie_2._7
 
         static void Main(string[] args)
         {
-        A:
+      
             Console.Write("Введите порядок матрицы ");
             int n = Convert.ToInt32(Console.ReadLine());
             if (n == 0)
@@ -30,7 +30,7 @@ namespace Zadanie_2._7
                     }
                 }
             Console.Write('\n');
-            goto A;
+         
 
         } 
     }
