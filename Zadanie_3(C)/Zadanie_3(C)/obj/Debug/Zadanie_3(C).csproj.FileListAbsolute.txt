@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Zadanie_3(C)\Zadanie_3(C)\bin\Debug\Zadanie_3(C).exe.config
+C:\Users\User\source\repos\Zadanie_3(C)\Zadanie_3(C)\bin\Debug\Zadanie_3(C).exe
+C:\Users\User\source\repos\Zadanie_3(C)\Zadanie_3(C)\bin\Debug\Zadanie_3(C).pdb
+C:\Users\User\source\repos\Zadanie_3(C)\Zadanie_3(C)\obj\Debug\Zadanie_3(C).csprojAssemblyReference.cache
+C:\Users\User\source\repos\Zadanie_3(C)\Zadanie_3(C)\obj\Debug\Zadanie_3(C).csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Zadanie_3(C)\Zadanie_3(C)\obj\Debug\Zadanie_3(C).exe
+C:\Users\User\source\repos\Zadanie_3(C)\Zadanie_3(C)\obj\Debug\Zadanie_3(C).pdb
