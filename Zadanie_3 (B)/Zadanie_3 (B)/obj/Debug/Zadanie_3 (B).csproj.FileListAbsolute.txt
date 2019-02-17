@@ -1,0 +1,7 @@
+C:\Users\Kirill\Documents\1KirillNeoBis\Zadanie_3 (B)\Zadanie_3 (B)\obj\Debug\Zadanie_3 (B).csprojAssemblyReference.cache
+C:\Users\Kirill\Documents\1KirillNeoBis\Zadanie_3 (B)\Zadanie_3 (B)\obj\Debug\Zadanie_3 (B).csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Documents\1KirillNeoBis\Zadanie_3 (B)\Zadanie_3 (B)\bin\Debug\Zadanie_3 (B).exe.config
+C:\Users\Kirill\Documents\1KirillNeoBis\Zadanie_3 (B)\Zadanie_3 (B)\bin\Debug\Zadanie_3 (B).exe
+C:\Users\Kirill\Documents\1KirillNeoBis\Zadanie_3 (B)\Zadanie_3 (B)\bin\Debug\Zadanie_3 (B).pdb
+C:\Users\Kirill\Documents\1KirillNeoBis\Zadanie_3 (B)\Zadanie_3 (B)\obj\Debug\Zadanie_3 (B).exe
+C:\Users\Kirill\Documents\1KirillNeoBis\Zadanie_3 (B)\Zadanie_3 (B)\obj\Debug\Zadanie_3 (B).pdb
