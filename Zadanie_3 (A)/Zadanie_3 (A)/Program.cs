@@ -10,9 +10,9 @@ namespace Zadanie_3__A_
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter the string");
+            Console.Write("Enter the string ");
             string str = Console.ReadLine();
-            Console.Write("enter maximum string length");
+            Console.Write("enter maximum string length ");
             int maxlength = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine(truncate(str, maxlength));
 
